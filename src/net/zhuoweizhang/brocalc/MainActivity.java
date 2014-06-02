@@ -1,4 +1,4 @@
-package net.zhuoweizhang.brocalc;
+package net.quantumworks.calculator;
 
 import java.util.*;
 

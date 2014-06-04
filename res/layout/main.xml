@@ -67,6 +67,7 @@
 		android:layout_height="wrap_content"
 		android:text="="/>
 </LinearLayout>
+		<!-- Numbers Start Here -->
 <LinearLayout android:orientation="horizontal"
     android:layout_width="fill_parent"
 	android:layout_height="wrap_content">
@@ -132,4 +133,5 @@
 		android:text="."/>
 </LinearLayout>
 </LinearLayout>
+		<!-- Numbers End Here -->
 
